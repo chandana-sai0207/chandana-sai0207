@@ -2,13 +2,12 @@
 
 # ✦ Lingoji Chandana Sai ✦
 
-### 🎓 Computer Science Student | Building | Learning | Exploring | Hackathon Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Building;Learning;Exploring;Hackathon+Enthusiast" alt="Typing animation" />
 
-[
+<br>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/chandana-sai0207)
+<a href="https://github.com/chandana-sai0207"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/chandana-sai-lingoji-72272a36a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -202,12 +201,7 @@ A platform concept that connects MSMEs so that one company's waste can become an
 
 <div align="center">
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/chandana-sai-lingoji-72272a36a)
-[
+<a href="https://www.linkedin.com/in/chandana-sai-lingoji-72272a36a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 ⭐ Thanks for visiting my profile!
 
