@@ -172,7 +172,7 @@ A platform concept that connects MSMEs so that one company's waste can become an
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <div align="center">
 
@@ -193,7 +193,7 @@ A platform concept that connects MSMEs so that one company's waste can become an
 
 
 
-</div>
+</div>-->
 
 ---
 
